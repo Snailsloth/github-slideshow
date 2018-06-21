@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+WOW!Such Git! Mutch Hub!
 Use the left arrow to go back!
